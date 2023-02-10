@@ -1,6 +1,6 @@
 # Year-11-CS-Unit-6-Quiz-Student
 
-Ensure that you read all instructions carefully. Do not include any additional variables or methods that are not specified in this quiz description. Each question is worth one mark and is binary. That is, you either get 1 mark or 0 marks for each question (there are 14 questions on this quiz hence this quiz is worth 14 marks in total). The only application that is to be running on your computer is your IDE (until you are ready to submit your quiz). When you are ready to submit your quiz, please share it on github and ensure that all of your work has been pushed to your repository. Double check this by confirming that your completed classes exist in your repository on github. Submit the link to your repository on Schoology.
+Ensure that you read all instructions carefully. Do not include any additional variables or methods that are not specified in this quiz description. Each question is worth one mark and is binary. That is, you either get 1 mark or 0 marks for each question (there are 19 questions on this quiz hence this quiz is worth 19 marks in total). The only application that is to be running on your computer is your IDE (until you are ready to submit your quiz). When you are ready to submit your quiz, please share it on github and ensure that all of your work has been pushed to your repository. Double check this by confirming that your completed classes exist in your repository on github. Submit the link to your repository on Schoology.
 Good luck, have fun! :)
 
 # class Address
